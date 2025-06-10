@@ -143,8 +143,6 @@ Acesse o site oficial, com vídeos, material em PDF e códigos para executar no 
 
 1. **O curso é realmente gratuito?**
 Sim! O curso é 100% gratuito graças ao financiamento da Lei Paulo Gustavo e apoio dos órgãos parceiros.
-<br>
-
 
 2. **Preciso instalar algum software?**
 O Construct 3 roda no navegador, mas recomendamos usar a versão desktop para melhor performance. Ambas são gratuitas para uso básico.
