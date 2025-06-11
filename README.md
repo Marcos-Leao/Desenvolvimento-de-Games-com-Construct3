@@ -1,10 +1,12 @@
 # 🎮 Curso de Introdução ao Desenvolvimento de Games com Construct 3
 
 <div align="center">
+   
    [![Lei Paulo Gustavo](https://img.shields.io/badge/Financiado-Lei%20Paulo%20Gustavo-green)](https://www.gov.br/cultura/pt-br)
    [![Ministério da Cultura](https://img.shields.io/badge/Apoio-Minist%C3%A9rio%20da%20Cultura-blue)](https://www.gov.br/cultura/pt-br)
    [![YouTube](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube)](https://www.youtube.com/playlist?list=PLNVfK5cXgbR9jw8jEYXTeEZpq681ryQV7)
    [![Site do Curso](https://img.shields.io/badge/Site-Acesse%20o%20Curso-orange)](https://pix1234.com.br/desenvolvimento-de-jogos/acesse-o-curso)
+
 </div>
 <div align="center">
    <img src="https://img.shields.io/badge/status-pronto%20para%20uso-brightgreen" alt="Status: Pronto para uso">
