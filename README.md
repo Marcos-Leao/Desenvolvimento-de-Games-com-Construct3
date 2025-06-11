@@ -12,13 +12,10 @@
    <img src="https://img.shields.io/badge/status-pronto%20para%20uso-brightgreen" alt="Status: Pronto para uso">
    <img src="https://img.shields.io/badge/versão-1.0.0-blue" alt="Versão: 1.0.0">
    <img src="https://img.shields.io/badge/licença-MIT-green" alt="Licença: MIT">
-</div>
 
-<div align="center">
-  <img src="/marcas_uniao-1.png" width="700" />
-  <br><br>
+  <img src="/marcas_uniao-1.png" width="800" />
 </div>
-  <br>
+ 
 
 ## 📋 Sobre o Projeto
 
