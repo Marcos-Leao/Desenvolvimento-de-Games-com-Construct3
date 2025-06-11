@@ -18,6 +18,8 @@
 
 Este repositório contém informações e links para o **Curso de Introdução ao Desenvolvimento de Games com Construct 3**, ministrado presencialmente e disponibilizado gratuitamente online. O curso foi desenvolvido para transformar ideias criativas em jogos reais e envolventes, mesmo para pessoas sem experiência anterior em programação.
 
+O **Curso de Introdução ao Desenvolvimento de Games com Construct 3** foi financiado pela **Lei Paulo Gustavo**.
+
 ### 🎯 Objetivos do Curso
 
 - Ensinar os fundamentos do desenvolvimento de jogos 2D
