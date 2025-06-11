@@ -136,7 +136,7 @@ O curso tem como público-alvo estudantes e interessados em tecnologia e artes d
 ### ✅ **Siga o Curso**
 - 📺 Assista às videoaulas no [YouTube](https://www.youtube.com/playlist?list=PLNVfK5cXgbR9jw8jEYXTeEZpq681ryQV7)
 - 📲 Melhor ainda: Acesse o Curso Completo, no link abaixo
-- 📖 Consulte os materiais PDF inclusos
+- 📖 Estude os arquivos em PDF disponíveis
 - 🎮 Abra os projetos .c3p no Construct 3
 
 ### 📲 Acesse o Curso Completo
