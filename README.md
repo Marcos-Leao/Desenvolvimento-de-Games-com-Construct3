@@ -7,12 +7,11 @@
    [![YouTube](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube)](https://www.youtube.com/playlist?list=PLNVfK5cXgbR9jw8jEYXTeEZpq681ryQV7)
    [![Site do Curso](https://img.shields.io/badge/Site-Acesse%20o%20Curso-orange)](https://pix1234.com.br/desenvolvimento-de-jogos/acesse-o-curso)
 
-</div>
    <img src="https://img.shields.io/badge/status-pronto%20para%20uso-brightgreen" alt="Status: Pronto para uso">
    <img src="https://img.shields.io/badge/versão-1.0.0-blue" alt="Versão: 1.0.0">
    <img src="https://img.shields.io/badge/licença-MIT-green" alt="Licença: MIT">
    <img src="/marcas_uniao-1.png" width="800" />
-
+</div>
  
 ## 📋 Sobre o Projeto
 
