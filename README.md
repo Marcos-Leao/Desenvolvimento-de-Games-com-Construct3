@@ -9,6 +9,26 @@
 
 </div>
 
+<div align="center">
+  <img src="/Logo-BE-ES.png" width="440" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/leao-marcosleao.svg" width="260" />
+  <br><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini">
+  <br>
+  <img src="https://img.shields.io/badge/status-pronto%20para%20uso-brightgreen" alt="Status: Pronto para uso">
+  <img src="https://img.shields.io/badge/versão-1.0.0-blue" alt="Versão: 1.0.0">
+  <img src="https://img.shields.io/badge/licença-MIT-green" alt="Licença: MIT">
+</div>
+  <br>
+
+
+
+
+
+
 ## 📋 Sobre o Projeto
 
 Este repositório contém informações e links para o **Curso de Introdução ao Desenvolvimento de Games com Construct 3**, ministrado presencialmente e disponibilizado gratuitamente online. O curso foi desenvolvido para transformar ideias criativas em jogos reais e envolventes, mesmo para pessoas sem experiência anterior em programação.
