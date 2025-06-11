@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="/marcas_uniao-1.png" width="440" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/LogoBE-1000x1000-com-borda.png" width="260" />
+  <img src="/marcas_uniao-1.png" width="600" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/LogoBE-1000x1000-com-borda.png" width="220" />
   <br><br>
 </div>
   <br>
