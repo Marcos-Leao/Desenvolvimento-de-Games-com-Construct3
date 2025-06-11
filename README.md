@@ -11,7 +11,7 @@
    <img src="https://img.shields.io/badge/versão-1.0.0-blue" alt="Versão: 1.0.0">
    <img src="https://img.shields.io/badge/licença-MIT-green" alt="Licença: MIT">
 </div><div align="center">   
-   <img src="/marcas_uniao-1.png" width="800" />
+   <img src="/marcas_uniao.png" width="800" />
 </div>
  
 ## 📋 Sobre o Projeto
