@@ -99,8 +99,6 @@ O curso tem como público-alvo estudantes e interessados em tecnologia e artes d
 
 ### **Marcos Leão**
 
-*Desenvolvedor de Software | 40+ anos de experiência*
-
  <img src="/leao-marcosleao.svg" width="260" />
 
 </div>
