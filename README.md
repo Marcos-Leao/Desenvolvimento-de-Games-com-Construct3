@@ -100,13 +100,15 @@ O curso tem como público-alvo estudantes e interessados em tecnologia e artes d
 </div>
 
 **Experiência Profissional:**
-- 40+ anos como desenvolvedor de software, programador e analista de sistemas
+- 50+ anos como desenvolvedor de software, programador e analista de sistemas
 - Ex-funcionário do SERPRO, CTIS
 - Trabalhou em órgãos como Ministério da Justiça, Ministério da Agricultura e Justiça Federal
-- Empresário atuante em automação, hospedagem e desenvolvimento web
+- Empresário atuante em automação, hospedagem e desenvolvimento web front-end
+- Habilidade na utilização do Gemini API para desenvolvimento web e jogos online
 
 **Formação Artística:**
 - Estudou artes na Faculdade Dulcina de Morais
+- Proprietário do **Espaço Sociocultural Bambu Eventos**, pré-certificado como _ponto de cultura_ pelo MinC
 - Conselheiro de Cultura no Município de Novo Gama, GO
 - Fusão única entre arte e tecnologia
 
