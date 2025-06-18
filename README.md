@@ -110,7 +110,7 @@ O curso tem como público-alvo estudantes e interessados em tecnologia e artes d
 - Estudou artes na Faculdade Dulcina de Morais
 - Proprietário do **Espaço Sociocultural Bambu Eventos**, pré-certificado como _ponto de cultura_ pelo MinC
 - Conselheiro de Cultura no Município de Novo Gama, GO
-- Fusão única entre arte e tecnologia
+- Fusão única entre arte, cultura e tecnologia
 
 ## 🎯 Para Quem é Este Curso
 
